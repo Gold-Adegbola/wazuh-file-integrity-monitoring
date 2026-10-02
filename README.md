@@ -4,7 +4,7 @@
 
 A hands-on lab covering deployment of a Wazuh agent on a Windows host, troubleshooting a real agent enrollment failure, configuring File Integrity Monitoring (FIM) with real-time detection, and validating it against live file creation and deletion events.
 
-**Full step-by-step writeup:** [docs/full-writeup.md](docs/full-writeup.md)
+**Full step-by-step writeup:** [docs/full-writeup.md](full-writeup.md)
 
 ## Environment
 
@@ -80,6 +80,6 @@ Created four files in the monitored directory and confirmed all four appeared as
 
 ## Files in This Project
 
-- [`docs/full-writeup.md`](docs/full-writeup.md): full writeup with exact commands, config, log output, and reasoning behind each step
-- [`docs/FIM-Wazuh-Documentation.pdf`](docs/FIM-Wazuh-Documentation.pdf): the same writeup as a PDF, for downloading and reading later
+- [`docs/full-writeup.md`](full-writeup.md): full writeup with exact commands, config, log output, and reasoning behind each step
+- [`docs/FIM-Wazuh-Documentation.pdf`](FIM-Wazuh-Documentation.pdf): the same writeup as a PDF, for downloading and reading later
 - [`images/`](images/): screenshots used in the README and the full writeup
